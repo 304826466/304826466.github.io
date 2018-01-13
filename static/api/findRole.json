@@ -1,0 +1,45 @@
+{
+	"code": 1,
+	"desc": "执行成功",
+	"data": [{
+			"createrTime": null,
+			"modifyTime": "2018-01-10 9:00",
+			"modifyId": 0,
+			"resList": [],
+			"roleCode": 222,
+			"roleName": "管理员",
+			"createrId": 0,
+			"id": 1,
+			"userId": 0,
+			"modifyName": "lady1",
+			"createrName": "林征斌"
+		},
+		{
+			"createrTime": null,
+			"modifyTime": "2018-01-11 9:00",
+			"modifyId": 0,
+			"resList": [],
+			"roleCode": 2,
+			"roleName": "技术人员",
+			"createrId": 0,
+			"id": 2,
+			"userId": 0,
+			"modifyName": "lady2",
+			"createrName": "林征斌2"
+		},
+		{
+			"createrTime": null,
+			"modifyTime": "2018-01-12 9:00",
+			"modifyId": 0,
+			"resList": [],
+			"roleCode": 2,
+			"roleName": "业务人员",
+			"createrId": 0,
+			"id": 3,
+			"userId": 0,
+			"modifyName": "lady3",
+			"createrName": "林征斌3"
+		}
+	],
+	"status": "success"
+}
