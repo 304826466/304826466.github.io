@@ -1,0 +1,38 @@
+{
+    "code":1,
+    "desc":"执行成功",
+    "data": [
+        {
+            "companyCode": "paisheng",
+            "createrTime": "2018-01-12 01:11:41",
+            "modifyTime": "",
+            "modifyName": "",
+            "modifyId": 0,
+            "companyName": "派生集团",
+            "createrId": 8,
+            "id": 1,
+            "createrName": ""
+        },{
+            "companyCode": "tuandai",
+            "createrTime": "2018-01-12 01:11:41",
+            "modifyTime": "",
+            "modifyName": "",
+            "modifyId": 0,
+            "companyName": "团贷网",
+            "createrId": 8,
+            "id": 2,
+            "createrName": ""
+        },{
+            "companyCode": "你我金融",
+            "createrTime": "2018-01-12 01:11:41",
+            "modifyTime": "",
+            "modifyName": "",
+            "modifyId": 0,
+            "companyName": "你我金融",
+            "createrId": 8,
+            "id": 3,
+            "createrName": ""
+        }
+    ],
+    "status": "success"
+}
