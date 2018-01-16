@@ -1,0 +1,62 @@
+{
+    "code": 1,
+    "desc": "查询成功！",
+    "data": {},
+    "list": [
+        {
+          "id": 1,
+          "companyId": "1001",
+          "companyName": "XX银行",
+          "productType": "现金贷",
+          "assets": "正合普惠",
+          "quota": "9000.00|-|-|-",
+          "efficiency": "30min",
+          "term": "1个月",
+          "repayType": "到期本息",
+          "rate": "6%",
+          "service": "4%",
+          "security": "3.3%",
+          "bond": "-",
+          "otherFee": "-",
+          "applicant": "路人甲",
+          "times": "2016-06-01 00:00:00"
+        },
+        {
+          "id": 2,
+          "companyId": "1002",
+          "companyName": "XX银行",
+          "productType": "现金贷",
+          "assets": "正合普惠",
+          "quota": "9000.00|-|-|-",
+          "efficiency": "30min",
+          "term": "1个月",
+          "repayType": "到期本息",
+          "rate": "6%",
+          "service": "4%",
+          "security": "3.3%",
+          "bond": "-",
+          "otherFee": "-",
+          "applicant": "路人甲",
+          "times": "2016-06-01 00:00:00"
+        },
+        {
+          "id": 3,
+          "companyId": "1003",
+          "companyName": "XX银行",
+          "productType": "现金贷",
+          "assets": "正合普惠",
+          "quota": "9000.00|-|-|-",
+          "efficiency": "30min",
+          "term": "1个月",
+          "repayType": "到期本息",
+          "rate": "6%",
+          "service": "4%",
+          "security": "3.3%",
+          "bond": "-",
+          "otherFee": "-",
+          "applicant": "路人甲",
+          "times": "2016-06-01 00:00:00"
+        }
+    ]
+  }
+  

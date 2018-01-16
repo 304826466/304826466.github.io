@@ -4,9 +4,8 @@
     "data":
     {
         "resUrl":"resUrl",
-        "resPid":-1,
-        "resId":1,
-		"id":1,
-        "resName":"新建菜单"
+        "resPid":1,
+        "resName":"新建菜单",
+        "id":18
     }
 }

@@ -1,0 +1,48 @@
+{
+	"code": 1,
+	"desc": "执行成功",
+	"data": [{
+			"createrId": 0,
+			"createrName": "林征斌",
+			"createrTime": null,
+			"id": 1,
+			"modifyId": 10001,
+			"modifyName": "超级管理员",
+			"modifyTime": "2018-01-10 9:00",
+			"resList": [],
+			"resStrs": "11,12",
+			"roleCode": 222,
+			"roleName": "管理员",
+			"userId": 0
+		},
+		{
+			"createrId": 0,
+			"createrName": "张蕾迪6",
+			"createrTime": null,
+			"id": 2,
+			"modifyId": 10001,
+			"modifyName": "超级管理员",
+			"modifyTime": "2018-01-10 9:00",
+			"resList": [],
+			"resStrs": "11,12",
+			"roleCode": 222,
+			"roleName": "管理员",
+			"userId": 0
+		},
+		{
+			"createrId": 0,
+			"createrName": "张蕾迪5",
+			"createrTime": null,
+			"id": 3,
+			"modifyId": 10001,
+			"modifyName": "超级管理员",
+			"modifyTime": "2018-01-10 9:00",
+			"resList": [],
+			"resStrs": "11",
+			"roleCode": 222,
+			"roleName": "管理员",
+			"userId": 0
+		}
+	],
+	"status": "success"
+}
