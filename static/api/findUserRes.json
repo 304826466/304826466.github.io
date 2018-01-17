@@ -1,0 +1,152 @@
+{
+    "code": 1,
+    "desc": "查询成功！",
+    "data": {
+        "resList": [
+            {
+                "id": 1,
+                "resPid": -1,
+                "resName": "系统管理",
+                "resDesc": "系统管理",
+                "icon": "iconName",
+                "resUrl": ""
+            },
+            {
+                "id": 11,
+                "resPid": 1,
+                "resName": "用户管理",
+                "resDesc": "系统管理-用户管理",
+                "icon": "iconName",
+                "resUrl": "/userMgt"
+            },
+            {
+                "id": 12,
+                "resPid": 1,
+                "resName": "角色管理",
+                "resDesc": "系统管理-角色管理",
+                "icon": "iconName",
+                "resUrl": "/roleMgt"
+            },
+            {
+                "id": 13,
+                "resPid": 1,
+                "resName": "菜单管理",
+                "resDesc": "系统管理-菜单管理",
+                "icon": "iconName",
+                "resUrl": "/menuMgt"
+            },
+            {
+                "id": 14,
+                "resPid": 1,
+                "resName": "业务管理",
+                "resDesc": "系统管理-业务管理",
+                "icon": "iconName",
+                "resUrl": "/businessMgt"
+            },
+            {
+                "id": 15,
+                "resPid": 1,
+                "resName": "产品管理",
+                "resDesc": "系统管理-产品管理",
+                "icon": "iconName",
+                "resUrl": "/productMgt"
+            },
+            {
+                "id": 2,
+                "resPid": -1,
+                "resName": "资金端管理",
+                "resDesc": "资金端管理",
+                "icon": "iconName",
+                "resUrl": ""
+            },
+            {
+                "id": 21,
+                "resPid": 2,
+                "resName": "资金方信息",
+                "resDesc": "资金端管理-资金方信息",
+                "icon": "iconName",
+                "resUrl": "/capitalCoInfo"
+            },
+            {
+                "id": 22,
+                "resPid": 2,
+                "resName": "资金公司信息审核B",
+                "resDesc": "资金端管理-资金公司信息审核",
+                "icon": "iconName",
+                "resUrl": "/capitalCoInfoReview"
+            },
+            {
+                "id": 23,
+                "resPid": 2,
+                "resName": "资金端还款信息A-",
+                "resDesc": "资金端管理-资金端还款信息",
+                "icon": "iconName",
+                "resUrl": "/capitalCoRepaymentInfo"
+            },
+            {
+                "id": 24,
+                "resPid": 2,
+                "resName": "资金信息查询",
+                "resDesc": "资金端管理-资金信息查询",
+                "icon": "iconName",
+                "resUrl": "/capitalInfoQuery"
+            },
+            {
+                "id": 3,
+                "resPid": -1,
+                "resName": "资产端管理",
+                "resDesc": "资产端管理",
+                "icon": "iconName",
+                "resUrl": ""
+            },
+            {
+                "id": 31,
+                "resPid": 3,
+                "resName": "资产公司信息",
+                "resDesc": "资产端管理-资产公司信息",
+                "icon": "iconName",
+                "resUrl": "/assetCoInfo"
+            },
+            {
+                "id": 32,
+                "resPid": 3,
+                "resName": "资产端还款管理A-",
+                "resDesc": "资产端管理-资产端还款管理",
+                "icon": "iconName",
+                "resUrl": "/assetCoRepaymentMgt"
+            },
+            {
+                "id": 5,
+                "resPid": -1,
+                "resName": "报表",
+                "resDesc": "报表",
+                "icon": "iconName",
+                "resUrl": ""
+            },
+            {
+                "id": 51,
+                "resPid": 5,
+                "resName": "资产负债资金匹配报表",
+                "resDesc": "报表-资产负债资金匹配报表",
+                "icon": "iconName",
+                "resUrl": "/assetLiabilitiesTable"
+            },
+            {
+                "id": 52,
+                "resPid": 5,
+                "resName": "资产状况报表",
+                "resDesc": "报表-资产状况报表",
+                "icon": "iconName",
+                "resUrl": "/assetStatusTable"
+            },
+            {
+                "id": 53,
+                "resPid": 5,
+                "resName": "资产成本效率表",
+                "resDesc": "报表-资产成本效率表",
+                "icon": "iconName",
+                "resUrl": "/assetCostEfficiencyTable"
+            }
+        ]
+    }
+}

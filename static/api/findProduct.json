@@ -1,0 +1,87 @@
+{
+	"code": 1,
+	"desc": "执行成功",
+	"data": [{
+			"businessName": "现金贷",
+			"list": [{
+				"id": 1,
+				"productType": "俊拓小额分期",
+				"createrName": "张蕾迪2",
+				"createrTime": "2018-01-10 9:00"
+			},
+			{
+				"id": 2,
+				"productType": "正好有钱",
+				"createrName": "张蕾迪2",
+				"createrTime": "2018-01-10 9:00"
+			},
+			{
+				"id": 3,
+				"productType": "速来贷",
+				"createrName": "张蕾迪2",
+				"createrTime": "2018-01-10 9:00"
+			},
+			{
+				"id": 4,
+				"productType": "一点车贷",
+				"createrName": "张蕾迪2",
+				"createrTime": "2018-01-10 9:00"
+			},
+			{
+				"id": 5,
+				"productType": "一点车贷2",
+				"createrName": "张蕾迪2",
+				"createrTime": "2018-01-10 9:00"
+			}
+			]
+		},
+		{
+			"businessName": "现金贷",
+			"list": [
+				{
+					"id": 6,
+					"productType": "俊拓小额分期",
+					"createrName": "张蕾迪2",
+					"createrTime": "2018-01-10 9:00"
+				}
+			]
+		},
+		{
+			"businessName": "现金贷",
+			"list": [
+				{
+					"id": 7,
+					"productType": "俊拓小额分期",
+					"createrName": "张蕾迪2",
+					"createrTime": "2018-01-10 9:00"
+				},
+				{
+					"id": 8,
+					"productType": "正好有钱",
+					"createrName": "张蕾迪2",
+					"createrTime": "2018-01-10 9:00"
+				},
+				{
+					"id": 9,
+					"productType": "速来贷",
+					"createrName": "张蕾迪2",
+					"createrTime": "2018-01-10 9:00"
+				},
+				{
+					"id": 10,
+					"productType": "一点车贷",
+					"createrName": "张蕾迪2",
+					"createrTime": "2018-01-10 9:00"
+				},
+				{
+					"id": 11,
+					"productType": "一点车贷2",
+					"createrName": "张蕾迪2",
+					"createrTime": "2018-01-10 9:00"
+				}
+			]
+		}
+		
+	],
+	"status": "success"
+}

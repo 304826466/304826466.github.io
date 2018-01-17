@@ -1,0 +1,28 @@
+{
+	"code": 1,
+	"desc": "执行成功",
+	"data": {
+		"passWord": "123456",
+		"userSex": 1,
+		"roleStrs": "1",
+		"userStatus": 0,
+		"modifyId": 0,
+		"userFullName": "3",
+		"userTele": "3",
+		"createrTime": null,
+		"modifyTime": null,
+		"oldPassWord": "",
+		"userCompanyId": 3,
+		"userQqOpenId": "",
+		"userSinaOpenId": "",
+		"userWechatOpenId": "",
+		"userEmail": "3",
+		"userLoginName": "3",
+		"createrId": 0,
+		"createrName": "dawang",
+		"modifyName": "xiaowang",
+		"id": 33,
+		"userSalt": ""
+	},
+	"status": "success"
+}
